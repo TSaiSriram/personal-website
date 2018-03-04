@@ -34,13 +34,12 @@ body, p {
 }
 
 .project {
-  height: 160px; 
+  height: 160px;
   display: flex;
   flex-direction: column;
   align-items: center;
   justify-content: center;
   text-align: center;
-  flex: 1 300px;
   padding: 2em;
   margin: 1.2em;
   border-radius: .5em;
